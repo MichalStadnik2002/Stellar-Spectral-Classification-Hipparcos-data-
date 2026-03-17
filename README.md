@@ -29,7 +29,7 @@ Spectral classification typically requires spectroscopic observations, which are
   
 
 ## Results
-- Compared models using standard classification metrics (F1-score, heatmaps)
+- Compared models using standard classification metrics (F1-score, confusion matrix)
 - Best model: Single Decision Tree
 - F1 score: 69.64%
 
